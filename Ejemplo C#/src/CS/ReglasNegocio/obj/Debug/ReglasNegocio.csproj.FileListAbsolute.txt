@@ -1,0 +1,7 @@
+F:\Documents\Fedo\Base de Datos 3\BBDDIII-master\Programacion en Bases de Datos\Ejemplo C#\src\CS\ReglasNegocio\bin\Debug\DCE05.Ejemplos.EstrellaUno.ReglasNegocio.dll
+F:\Documents\Fedo\Base de Datos 3\BBDDIII-master\Programacion en Bases de Datos\Ejemplo C#\src\CS\ReglasNegocio\bin\Debug\DCE05.Ejemplos.EstrellaUno.ReglasNegocio.pdb
+F:\Documents\Fedo\Base de Datos 3\BBDDIII-master\Programacion en Bases de Datos\Ejemplo C#\src\CS\ReglasNegocio\bin\Debug\DCE05.Ejemplos.EstrellaUno.AccesoDatos.dll
+F:\Documents\Fedo\Base de Datos 3\BBDDIII-master\Programacion en Bases de Datos\Ejemplo C#\src\CS\ReglasNegocio\bin\Debug\DCE05.Ejemplos.EstrellaUno.AccesoDatos.pdb
+F:\Documents\Fedo\Base de Datos 3\BBDDIII-master\Programacion en Bases de Datos\Ejemplo C#\src\CS\ReglasNegocio\obj\Debug\ReglasNegocio.csprojResolveAssemblyReference.cache
+F:\Documents\Fedo\Base de Datos 3\BBDDIII-master\Programacion en Bases de Datos\Ejemplo C#\src\CS\ReglasNegocio\obj\Debug\DCE05.Ejemplos.EstrellaUno.ReglasNegocio.dll
+F:\Documents\Fedo\Base de Datos 3\BBDDIII-master\Programacion en Bases de Datos\Ejemplo C#\src\CS\ReglasNegocio\obj\Debug\DCE05.Ejemplos.EstrellaUno.ReglasNegocio.pdb
